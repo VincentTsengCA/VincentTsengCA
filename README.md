@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vincent!
 - 💻 Check out my personal projects on this page.
 - 📧 You can connect with me on LinkedIn at www.linkedin.com/in/vincent-tseng-ca.
-- 🥔 I’m also the indie game developer, @PotatofulGames.
+- 🥔 I’m also the indie game developer, [@PotatofulGames](https://github.com/PotatofulGames).
